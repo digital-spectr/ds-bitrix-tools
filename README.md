@@ -2,7 +2,7 @@
 Служебные скрипты, предназначенные для запука по cron-у
 
 ## Список скриптов
-##
+
 **google_merchant.php** - экспорт для Google Merchant
 
 **retail_rocket.php** - экспорт для Retail Rocket
