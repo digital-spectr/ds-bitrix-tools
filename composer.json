@@ -1,0 +1,24 @@
+{
+  "name": "digital-spectr/ds-bitrix-tools",
+  "description": "Tools",
+  "license": "MIT",
+  "keywords": [
+    "tools",
+    "bitrix",
+    "Битрикс"
+  ],
+  "authors": [
+    {
+      "name": "DigitalSpectr",
+      "email": "man@digital-spectr.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "DS\\Tools\\": "src/ds/tools/"
+    }
+  }
+}
